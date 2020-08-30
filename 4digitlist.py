@@ -4,13 +4,13 @@
 # In[17]:
 
 
-PW= "DELL"
+PW= "DELL@r"
 
 
-case = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890'
+case = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*()'
 
 
-fourdigitcombo = [a+b+c+d for a in case for b in case for c in case for d in case]
+fourdigitcombo = [a+b+c+d+e+f for a in case for b in case for c in case for d in case for e in case for f in case]
 
 #fourdigitcombo[:50] # Display first 50 ids
 
