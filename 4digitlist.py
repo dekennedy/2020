@@ -4,7 +4,8 @@
 # In[17]:
 
 
-PW= "DELL@r"
+
+PW= "DELL(r"
 
 
 case = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*()'
