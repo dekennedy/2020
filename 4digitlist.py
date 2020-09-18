@@ -5,7 +5,7 @@
 
 
 
-PW= "DELL(r"
+PW= "DE3L("
 
 
 case = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*()'
